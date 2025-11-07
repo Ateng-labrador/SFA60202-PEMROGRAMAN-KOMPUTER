@@ -1,4 +1,4 @@
-## Double Pendulum
+# Double Pendulum
 <img src=".github/double-pendulum.gif">
 
 ### :computer: intallation
@@ -6,7 +6,6 @@
 cloe this repository locally to your machine:
 ```
 git clone https://github.com/Ateng-labrador/SFA60202-PEMROGRAMAN-KOMPUTER.git
-
 ```
 Run code in `main.py`
 
