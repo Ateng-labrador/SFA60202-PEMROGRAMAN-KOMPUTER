@@ -1,7 +1,7 @@
 from typing import Tuple, List
 
-from Pendulum import Pendulum
-from equation import derivative,solve_ode
+from .Pendulum import Pendulum
+from .equation import derivative,solve_ode
 from scipy import constants
 import numpy as np
 import pandas as pd

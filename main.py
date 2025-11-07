@@ -1,13 +1,13 @@
+# https://en.wikipedia.org/wiki/Double_pendulum
 import string
 from typing import List
 
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
-from Pendulum import Pendulum
 
 
-from double_pendulum import DoublePendulum
+from source.double_pendulum import DoublePendulum
 
 def animate(i):
     """
